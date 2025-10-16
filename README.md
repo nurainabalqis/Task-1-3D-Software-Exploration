@@ -1,6 +1,6 @@
 # 🏛️ 3D Modelling of the Sultan Abdul Samad Building using Blender and 3ds Max
 
-![Image](https://github.com/user-attachments/assets/43b0be21-5cb9-41b8-858d-d2bf502a390e)
+![Image](https://github.com/user-attachments/assets/399d652b-8dff-4cb0-a85e-1f39d9097396)
 
 ## 📌 Overview
 This project focuses on exploring and comparing two 3D modelling software which is **Blender** and **Autodesk 3ds Max** by creating a simplified model of one of Malaysia’s most iconic landmarks, the **Sultan Abdul Samad Building**, located at **Merdeka Square, Kuala Lumpur**.
